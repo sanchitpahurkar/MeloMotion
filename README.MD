@@ -4,14 +4,14 @@ This project allows you to control Spotify playback using hand gestures. By usin
 
 ## Features
 
-- **Play/Pause Spotify music**
+- **Play/Pause Spotify music**  
     [![Play/Pause Demonstration](https://img.youtube.com/vi/kdEsPDuot1I/0.jpg)](https://www.youtube.com/watch?v=kdEsPDuot1I)
 
 
-- **Skip to the next or previous song**
+- **Skip to the next or previous song**  
     [![Prev/Next seek Demonstration](https://img.youtube.com/vi/8KVYpTxMSHE/0.jpg)](https://www.youtube.com/watch?v=8KVYpTxMSHE)
 
-- **Adjust the volume**
+- **Adjust the volume**  
     [![Prev/Next seek Demonstration](https://img.youtube.com/vi/lzhi4fmYxV4/0.jpg)](https://www.youtube.com/watch?v=lzhi4fmYxV4)
 
 ## **Install the required dependencies by running:**
